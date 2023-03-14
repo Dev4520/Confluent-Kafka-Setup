@@ -24,3 +24,7 @@ Complete the given below task to finish this assignment.
 7. Once above questions are done, write another kafka consumer to read data from kafka topic and from the consumer code create one csv file "output.csv"
    and append consumed records output.csv file
    
+# solution link
+# https://github.com/MindFaktur/BigDataPractice
+
+
